@@ -6,4 +6,5 @@ export class CreateUserDto {
     confirmPass: string;
     createat: Date;
     update: Date;
+    taskId: string;
   }
